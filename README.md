@@ -34,3 +34,13 @@ to get the analysis result, which will be stored in `data.json`.
 
   [1]: https://github.com/apache/incubator-echarts
   [2]: https://bitinfocharts.com/comparison/bitcoin-transactions.html
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
